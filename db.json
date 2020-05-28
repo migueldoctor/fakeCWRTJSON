@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Situ Workshop 1",
       "description":" This is an event to teach you a lot",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1"
+      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2021",
       "endDate":"02/02/2021",
       "surveyUrl":"wwww.cosmos.esa.int/web/situWorkshop1/survey",
@@ -25,7 +25,7 @@
       "id": 2,
       "title": "Gaia Data release 2",
       "description":" This is an event to teach you a lot",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1"
+      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2021",
       "endDate":"02/02/2021",
       "surveyUrl":"wwww.cosmos.esa.int/web/gaiaDataRelease2/survey",
@@ -39,7 +39,7 @@
       "id": 3,
       "title": "Cosmos Workshop",
       "description":" This is an event to teach you a lot",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1"
+      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2021",
       "endDate":"02/02/2021",
       "surveyUrl":"",
@@ -65,7 +65,7 @@
       "id": 4
       "title": "ESA old workshop",
       "description":" This is an old event",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1"
+      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2020",
       "endDate":"02/02/2020",
       "surveyUrl":"",
