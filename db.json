@@ -60,20 +60,6 @@
           "dateTime":"02/02/2021 19:00:01"
         },
       ]
-    },
-    {
-      "id": 4,
-      "title": "ESA old workshop",
-      "description":" This is an old event",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
-      "startingDate": "01/01/2020",
-      "endDate":"02/02/2020",
-      "surveyUrl":"",
-      "information" : {
-          "id": 3,
-          "dirección": "Holiday Inn Hotel, Leiden",
-          "wifi":"Your wifi crendentials is your email"
-       },
     }
   ]
 }
