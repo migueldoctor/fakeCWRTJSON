@@ -41,8 +41,8 @@
          },
         {
           "id": 2,
-          "day": "02/01/2021"
-          "presentations": [
+          "day": "02/01/2021",
+          "presentations" : [
             {
              "id": 3,
              "speakerTimeFrame": "09:00 - 10:00",
@@ -56,7 +56,7 @@
              "title":"What is the weather like out there?"
             }
           ]
-         },
+         }
         ]
     },
     {
