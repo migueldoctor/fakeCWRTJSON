@@ -19,6 +19,44 @@
           "description": "Welcome to the current workshop! The introduction key note presentation is about to start in 5 minutes",
           "dateTime":"01/01/2021 09:25:00"
          }
+        ],
+      "agenda" : [
+         {
+          "id": 1,
+          "day": "01/01/2021",
+          "presentations": [
+            {
+             "id": 1,
+             "speakerTimeFrame": "09:00 - 10:00",
+             "speakerName":"Miguel Doctor",
+             "title":"Using FakeJSON to speed up development"
+            },
+            {
+             "id": 2,
+             "speakerTimeFrame": "10:00 - 11:00",
+             "speakerName":"Miguel Doctor",
+             "title":"What is cosmos?"
+            }
+          ]
+         },
+        {
+          "id": 2,
+          "day": "02/01/2021"
+          "presentations": [
+            {
+             "id": 3,
+             "speakerTimeFrame": "09:00 - 10:00",
+             "speakerName":"Jhon Doe",
+             "title":"What is liferay, and how to use it"
+            },
+            {
+             "id": 4,
+             "speakerTimeFrame": "10:00 - 11:00",
+             "speakerName":"Doe Doe you",
+             "title":"What is the weather like out there?"
+            }
+          ]
+         },
         ]
     },
     {
@@ -31,7 +69,7 @@
       "surveyUrl":"wwww.cosmos.esa.int/web/gaiaDataRelease2/survey",
       "information" : {
           "id": 2,
-          "dirección": "ESTEC, c/Kleperlaand s/n",
+          "address": "ESTEC, c/Kleperlaand s/n",
           "wifi":"Your wifi crendentials are in your badge"
        }
     },
@@ -45,7 +83,7 @@
       "surveyUrl":"",
       "information" : {
           "id": 3,
-          "dirección": "Holiday Inn Hotel, Leiden",
+          "address": "Holiday Inn Hotel, Leiden",
           "wifi":"Your wifi crendentials is your email"
        },
       "notifications" : [
@@ -71,7 +109,7 @@
       "surveyUrl":"",
       "information" : {
           "id": 3,
-          "dirección": "Holiday Inn Hotel, Leiden",
+          "address": "Holiday Inn Hotel, Leiden",
           "wifi":"Your wifi crendentials is your email"
        }
     }
