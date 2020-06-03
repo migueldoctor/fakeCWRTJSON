@@ -10,7 +10,7 @@
       "surveyUrl":"wwww.cosmos.esa.int/web/situWorkshop1/survey",
       "information" : {
           "id": 1,
-          "dirección": "ESAC, c/Villafranca del Castillo s/n",
+          "address": "ESAC, c/Villafranca del Castillo s/n",
           "wifi":"Your wifi crendentials are in your badge"
        },
        "notifications" : [
