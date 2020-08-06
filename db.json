@@ -29,14 +29,14 @@
          "id": 3,
          "description": "A car keys have been found, please go to reception in case they are yours",
          "dateTime":"01/01/2021 09:25:00"
-        },
+        }
        ],
        "sponsors" : [
         {
          "id": 1,
          "title": "SITU",
          "level":"Gold",
-         "image": "https://pbs.twimg.com/profile_images/1239515600025792512/GdNjK8BW_400x400.jpg",
+         "image": "https://pbs.twimg.com/profile_images/1239515600025792512/GdNjK8BW_400x400.jpg"
         }
        ],
        "agenda" : [
@@ -61,10 +61,12 @@
               "speakerTimeFrame": "11:00 - 12:00",
               "speakerName":"Hilda Rodriguez",
               "title":"How can I make a Kalman?"
-             }
+            }
+          ]
+        }
       ]
     },
-   {
+    {
       "id": 2,
       "title": "Cosmos Workshop #2",
       "description":"This is an event to teach you a lot. Not only about Situ itself, but also about Cosmos, Mobile apps, Machine Learning and so on.  ",
@@ -124,8 +126,8 @@
              "title":"What is the weather like out there?"
             }
           ]
-         }
-        ]
-      }
-     ]
+        }
+      ]
+    }
+  ]
 }
