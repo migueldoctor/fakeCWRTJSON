@@ -1,6 +1,6 @@
 {
   "events": [
-     {
+    {
       "id": 1,
       "title": "Situ Workshop 1",
       "description":"This is an event to teach you a lot. Not only about Situ itself, but also about Cosmos, Mobile apps, Machine Learning and so on.  ",
@@ -126,4 +126,6 @@
           ]
          }
         ]
-    }
+      }
+     ]
+}
