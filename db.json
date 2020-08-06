@@ -1,26 +1,45 @@
 {
-  "conferences": [
-    {
+  "events": [
+     {
       "id": 1,
       "title": "Situ Workshop 1",
-      "description":" This is an event to teach you a lot",
+      "description":"This is an event to teach you a lot. Not only about Situ itself, but also about Cosmos, Mobile apps, Machine Learning and so on.  ",
       "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2021",
       "endDate":"02/02/2021",
-      "surveyUrl":"wwww.cosmos.esa.int/web/situWorkshop1/survey",
+      "surveyUrl":"https://forms.gle/uNdXbwQtDR4QK9rv5",
       "information" : {
           "id": 1,
           "address": "ESAC, c/Villafranca del Castillo s/n",
-          "wifi":"Your wifi crendentials are in your badge"
+          "wifi":"Your wifi crendentials are in your badge",
+          "locationPicture":"https://www.cosmos.esa.int/documents/1308343/1308378/esac_map.png/7b33f749-ed1c-ae57-3b45-aef5c1c807f3?t=1489577869952"
        },
        "notifications" : [
-         {
-          "id": 1,
-          "description": "Welcome to the current workshop! The introduction key note presentation is about to start in 5 minutes",
-          "dateTime":"01/01/2021 09:25:00"
-         }
-        ],
-      "agenda" : [
+        {
+         "id": 1,
+         "description": "Welcome to the current workshop! The introduction key note presentation is about to start in 5 minutes",
+         "dateTime":"01/01/2021 09:25:00"
+        },
+        {
+         "id": 2,
+         "description": "We are having problems... excuse the delay",
+         "dateTime":"01/01/2021 09:25:00"
+        },
+        {
+         "id": 3,
+         "description": "A car keys have been found, please go to reception in case they are yours",
+         "dateTime":"01/01/2021 09:25:00"
+        },
+       ],
+       "sponsors" : [
+        {
+         "id": 1,
+         "title": "SITU",
+         "level":"Gold",
+         "image": "https://pbs.twimg.com/profile_images/1239515600025792512/GdNjK8BW_400x400.jpg",
+        }
+       ],
+       "agenda" : [
          {
           "id": 1,
           "day": "01/01/2021",
@@ -36,21 +55,70 @@
              "speakerTimeFrame": "10:00 - 11:00",
              "speakerName":"Miguel Doctor",
              "title":"What is cosmos?"
+            },
+            {
+              "id": 3,
+              "speakerTimeFrame": "11:00 - 12:00",
+              "speakerName":"Hilda Rodriguez",
+              "title":"How can I make a Kalman?"
+             }
+      ]
+    },
+   {
+      "id": 2,
+      "title": "Cosmos Workshop #2",
+      "description":"This is an event to teach you a lot. Not only about Situ itself, but also about Cosmos, Mobile apps, Machine Learning and so on.  ",
+      "logo": "https://pbs.twimg.com/profile_images/1239515600025792512/GdNjK8BW_400x400.jpg",
+      "startingDate": "01/01/2021",
+      "endDate":"02/02/2021",
+      "surveyUrl":"https://forms.gle/uNdXbwQtDR4QK9rv5",
+      "information" : {
+          "id": 2,
+          "address": "Keplerlaan 1, 2201 AZ Noordwijk",
+          "wifi":"Your wifi crendentials is your name an the user password is on your badge",
+          "locationPicture":"https://indico.esa.int/indico/event/170/picture/0.jpg"
+       },
+       "notifications" : [
+         {
+          "id": 2,
+          "description": "Welcome to the current workshop! The introduction key note presentation is about to start in 5 minutes",
+          "dateTime":"01/01/2021 09:25:00"
+         }
+        ],
+        "sponsors" : [
+
+         ],
+      "agenda" : [
+         {
+          "id": 5,
+          "day": "01/01/2021",
+          "presentations" : [
+            {
+             "id": 8,
+             "speakerTimeFrame": "09:00 - 10:00",
+             "speakerName":"Miguel Doctor",
+             "title":"Using FakeJSON to speed up development"
+            },
+            {
+             "id": 9,
+             "speakerTimeFrame": "10:00 - 11:00",
+             "speakerName":"Miguel Doctor",
+             "title":"What is cosmos?"
             }
           ]
          },
         {
-          "id": 2,
+          "id": 6,
           "day": "02/01/2021",
           "presentations" : [
             {
-             "id": 3,
+             "id": 10,
              "speakerTimeFrame": "09:00 - 10:00",
              "speakerName":"Jhon Doe",
              "title":"What is liferay, and how to use it"
             },
             {
-             "id": 4,
+             "id": 11,
              "speakerTimeFrame": "10:00 - 11:00",
              "speakerName":"Doe Doe you",
              "title":"What is the weather like out there?"
@@ -58,60 +126,4 @@
           ]
          }
         ]
-    },
-    {
-      "id": 2,
-      "title": "Gaia Data release 2",
-      "description":" This is an event to teach you a lot",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
-      "startingDate": "01/01/2021",
-      "endDate":"02/02/2021",
-      "surveyUrl":"wwww.cosmos.esa.int/web/gaiaDataRelease2/survey",
-      "information" : {
-          "id": 2,
-          "address": "ESTEC, c/Kleperlaand s/n",
-          "wifi":"Your wifi crendentials are in your badge"
-       }
-    },
-    {
-      "id": 3,
-      "title": "Cosmos Workshop",
-      "description":" This is an event to teach you a lot",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
-      "startingDate": "01/01/2021",
-      "endDate":"02/02/2021",
-      "surveyUrl":"",
-      "information" : {
-          "id": 3,
-          "address": "Holiday Inn Hotel, Leiden",
-          "wifi":"Your wifi crendentials is your email"
-       },
-      "notifications" : [
-        {
-          "id": 7,
-          "description": "Please excuse the technical difficulties during our presentation. Cosmos CWRT demo will be start in 5 minutes",
-          "dateTime":"02/02/2021 12:12:33"
-        },
-        {
-          "id": 8,
-          "description": "Thank you all for attending this workhsop, we hope to see you next year!!",
-          "dateTime":"02/02/2021 19:00:01"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "ESA old workshop",
-      "description":" This is an old event",
-      "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
-      "startingDate": "01/01/2020",
-      "endDate":"02/02/2020",
-      "surveyUrl":"",
-      "information" : {
-          "id": 3,
-          "address": "Holiday Inn Hotel, Leiden",
-          "wifi":"Your wifi crendentials is your email"
-       }
     }
-  ]
-}
