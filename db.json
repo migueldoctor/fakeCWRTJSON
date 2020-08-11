@@ -128,6 +128,87 @@
           ]
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "MLSOVA Workshop",
+      "description":"How to develop apps with MLSOVA",
+      "logo": "https://web.liferay.com/osb-community-theme/images/custom/open_graph_image.png",
+      "startingDate": "01/01/2021",
+      "endDate":"02/02/2021",
+      "surveyUrl":"https://forms.gle/uNdXbwQtDR4QK9rv5",
+      "information" : {
+        "id": 2,
+        "address": "ESAC, c/Villafranca del Castillo s/n",
+        "wifi":"Your wifi crendentials are in your badge",
+        "locationPicture":"https://www.cosmos.esa.int/documents/1308343/1308378/esac_map.png/7b33f749-ed1c-ae57-3b45-aef5c1c807f3?t=1489577869952"
+      },
+       "notifications" : [
+         {
+          "id": 2,
+          "description": "Welcome to the current workshop! The introduction key note presentation is about to start in 5 minutes",
+          "dateTime":"01/01/2021 09:25:00"
+         }
+        ],
+        "sponsors" : [
+          {
+            "id": 1,
+            "title": "SITU",
+            "level": "Gold",
+            "image": "https://pbs.twimg.com/profile_images/1239515600025792512/GdNjK8BW_400x400.jpg"
+           },
+           {
+            "id": 2,
+            "title": "Google",
+            "level": "Silver",
+            "image": "https://logodownload.org/wp-content/uploads/2014/09/google-logo-0.png"
+           },
+           {
+            "id": 3,
+            "title": "Google",
+            "level": "Bronze",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ESA_logo.png/800px-ESA_logo.png"
+           }
+         ],
+      "agenda" : [
+         {
+          "id": 5,
+          "day": "01/01/2021",
+          "presentations" : [
+            {
+             "id": 8,
+             "speakerTimeFrame": "09:00 - 10:00",
+             "speakerName":"Miguel Doctor",
+             "title":"Using FakeJSON to speed up development"
+            },
+            {
+             "id": 9,
+             "speakerTimeFrame": "10:00 - 11:00",
+             "speakerName":"Miguel Doctor",
+             "title":"What is cosmos?"
+            }
+          ]
+         },
+        {
+          "id": 6,
+          "day": "02/01/2021",
+          "presentations" : [
+            {
+             "id": 10,
+             "speakerTimeFrame": "09:00 - 10:00",
+             "speakerName":"Jhon Doe",
+             "title":"What is liferay, and how to use it"
+            },
+            {
+             "id": 11,
+             "speakerTimeFrame": "10:00 - 11:00",
+             "speakerName":"Doe Doe you",
+             "title":"What is the weather like out there?"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
+
