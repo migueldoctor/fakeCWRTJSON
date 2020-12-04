@@ -1,8 +1,8 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Situ Workshop 1",
+      "id": 133333,
+      "title": "Situ Workshop 1 updated",
       "description":"This is an event to teach you a lot. Not only about Situ itself, but also about Cosmos, Mobile apps, Machine Learning and so on.  ",
       "logo": "https://sci.esa.int/documents/34903/35595/Solar_Orbiter_mission_logo_625.png/52b3fbd9-d184-62ba-a042-f11da4a53e3f?version=1.0&t=1581088903442&imageThumbnail=1",
       "startingDate": "01/01/2021",
