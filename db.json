@@ -243,7 +243,7 @@
       ]
     }
  ],
-  "admin/gaia":[
+  "admin":[
         {
           "username":"admin1",
           "email":"admin1@cosmos.esa.int"
