@@ -242,5 +242,15 @@
         }
       ]
     }
- ]
+ ],
+  "admin/gaia":[
+        {
+          "username":"admin1",
+          "email":"admin1@cosmos.esa.int"
+        },
+        {
+           "username":"admin2",
+           "email":"admin2@cosmos.esa.int"
+        }
+      ]
 }
