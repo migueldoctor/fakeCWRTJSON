@@ -212,5 +212,35 @@
         }
       ]
     }
-  ]
+  ],
+  "site":[
+    {
+      "id": 133333,
+      "name": "Gaia",
+      "administrators": [
+        {
+          "username":"admin1",
+          "email":"admin1@cosmos.esa.int"
+        },
+        {
+           "username":"admin2",
+           "email":"admin2@cosmos.esa.int"
+        }
+      ]
+    },
+    {
+      "id": 123213,
+      "name": "Cosmos Demo",
+      "administrators": [
+        {
+          "username":"cosmosadmin1",
+          "email":"cosmosadmin1@cosmos.esa.int"
+        },
+        {
+           "username":"cosmosadmin2",
+           "email":"cosmosadmin2@cosmos.esa.int"
+        }
+      ]
+    }
+ ]
 }
